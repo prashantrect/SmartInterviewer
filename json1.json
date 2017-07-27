@@ -1,0 +1,22 @@
+{
+  "query": "test",
+  "topScoringIntent": {
+    "intent": "None",
+    "score": 0.221187085
+  },
+  "intents": [
+    {
+      "intent": "None",
+      "score": 0.221187085
+    },
+    {
+      "intent": "Parameter",
+      "score": 0.133720636
+    },
+    {
+      "intent": "Get Skill Set",
+      "score": 0.0166550037
+    }
+  ],
+  "entities": []
+}
