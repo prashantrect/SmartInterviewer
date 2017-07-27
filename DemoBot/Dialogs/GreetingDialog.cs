@@ -26,7 +26,7 @@ namespace DemoBot.Dialogs
             }
             else
             {
-                await context.PostAsync($"Hi {username}. Wish you good luck for this interview. Type Start when ready.");
+                await context.PostAsync($"Hi {username}. Wish you good luck for this interview.");
             }
         }
 
